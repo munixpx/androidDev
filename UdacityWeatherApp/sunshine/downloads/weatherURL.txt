@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/forecast?q=Sydney,au&mode=json&units=metic&cnt=7&APPID=a9bd1f63309fd2aba2f63050e5029f40
