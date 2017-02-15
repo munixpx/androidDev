@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:padding="16dp"
+    tools:context=".CatalogueFragment">
+
+    <ImageView
+        android:id="@+id/list_item00_catalogue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@mipmap/ic_launcher"
+        />
+    <ImageView
+        android:id="@+id/list_item01_catalogue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@mipmap/ic_launcher"
+        />
+    <ImageView
+        android:id="@+id/list_item02_catalogue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@mipmap/ic_launcher"
+        />
+</LinearLayout>
