@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Verter</string>
+
+
+    <string name="inputLabel_text">EUR</string>
+    <string name="outputLabel_text">AUD</string>
 </resources>
