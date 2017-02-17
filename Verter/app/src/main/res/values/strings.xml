@@ -2,6 +2,9 @@
     <string name="app_name">Verter</string>
 
 
-    <string name="inputLabel_text">EUR</string>
-    <string name="outputLabel_text">AUD</string>
+    <string name="inputLabel_text">AUD</string>
+    <string name="outputLabel_text">EUR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
