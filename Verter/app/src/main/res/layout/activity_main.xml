@@ -9,43 +9,4 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.munix.verter.MainActivity">
-
-    <TextView
-        android:text="@string/inputLabel_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/inputValue"
-        android:layout_alignParentStart="true"
-        android:id="@+id/inputLabel" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="number"
-        android:text=""
-        android:ems="10"
-        android:id="@+id/inputValue"
-        android:layout_marginTop="113dp"
-        android:layout_alignParentTop="true"
-        android:layout_toEndOf="@+id/inputLabel"
-        android:layout_marginStart="34dp" />
-
-    <TextView
-        android:text="@string/outputLabel_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/outputValue"
-        android:layout_alignParentStart="true"
-        android:id="@+id/outputLabel" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="number"
-        android:text=""
-        android:ems="10"
-        android:id="@+id/outputValue"
-        android:layout_marginTop="44dp"
-        android:layout_below="@+id/inputValue"
-        android:layout_alignStart="@+id/inputValue" />
 </RelativeLayout>

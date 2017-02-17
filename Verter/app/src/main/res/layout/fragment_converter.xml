@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.munix.verter.ConverterFragment">
+
+    <TextView
+        android:text="@string/outputLabel_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/outputValue"
+        android:layout_alignParentStart="true"
+        android:id="@+id/outputLabel" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:text=""
+        android:ems="10"
+        android:id="@+id/inputValue"
+        android:layout_marginTop="113dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/inputLabel"
+        android:layout_marginStart="34dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:text=""
+        android:ems="10"
+        android:id="@+id/outputValue"
+        android:layout_marginTop="44dp"
+        android:layout_below="@+id/inputValue"
+        android:layout_alignStart="@+id/inputValue" />
+
+    <TextView
+        android:text="@string/inputLabel_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/inputValue"
+        android:layout_alignParentStart="true"
+        android:id="@+id/inputLabel" />
+
+</RelativeLayout>
