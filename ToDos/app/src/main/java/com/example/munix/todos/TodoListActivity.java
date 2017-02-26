@@ -15,7 +15,7 @@ import android.widget.ListView;
 
 public class TodoListActivity extends AppCompatActivity {
 
-    String [] itemname = {
+    String[] itemname = {
             "get teather tickets",
             "order pizza for tonight",
             "buy groceries",
@@ -27,6 +27,7 @@ public class TodoListActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
@@ -35,7 +36,7 @@ public class TodoListActivity extends AppCompatActivity {
 
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int pos, long l) {
+            public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
                 Intent intent = new Intent(TodoListActivity.this, TodoActivity.class);
                 String content = (String) lv.getItemAtPosition(pos);
                 intent.putExtra("Content", content);
