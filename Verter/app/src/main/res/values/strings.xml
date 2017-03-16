@@ -4,7 +4,12 @@
 
     <string name="inputLabel_text">AUD</string>
     <string name="outputLabel_text">EUR</string>
+    <string name="refresh">refresh</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="valuta">
+        <item>EUR</item>
+        <item>AUD</item>
+    </string-array>
+
+
 </resources>

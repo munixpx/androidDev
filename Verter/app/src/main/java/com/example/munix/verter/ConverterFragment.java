@@ -9,10 +9,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
+import android.widget.RelativeLayout;
 
 
 public class ConverterFragment extends Fragment {
 
+
+    private RelativeLayout mainLayout;
 
     public ConverterFragment() {
     }
@@ -32,7 +35,7 @@ public class ConverterFragment extends Fragment {
         inflater.inflate(R.layout.fragment_converter, container, false);
 
         View rootView = inflater.inflate(R.layout.fragment_converter, container, false);
-
+        rootView.setBackgroundColor(getResources().getColor(R.color.colorBackground));
 
         final EditText inputText = (EditText) rootView.findViewById(R.id.inputValue);
         final EditText outputText = (EditText) rootView.findViewById(R.id.outputValue);
