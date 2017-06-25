@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detailfragment.xml",
+        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\detailfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forecastfragment.xml",
+        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\forecastfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
+        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\detail.xml"
+    }
+]

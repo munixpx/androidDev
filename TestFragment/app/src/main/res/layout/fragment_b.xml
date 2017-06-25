@@ -6,19 +6,11 @@
     >
 
     <LinearLayout
-        android:orientation="horizontal"
+        android:id="@+id/palletteLayout"
+        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-        <TextView
-            android:id="@+id/txtResult"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="RESULT"
-            android:padding="10dp"
-            android:textSize="30sp"
-            android:textAlignment="center"
-            />
+        android:layout_height="match_parent"
+        android:background="#FFF">
     </LinearLayout>
 
 </LinearLayout>

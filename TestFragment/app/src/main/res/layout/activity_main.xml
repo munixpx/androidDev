@@ -20,13 +20,6 @@
         android:layout_weight="1">
     </LinearLayout>
 
-    <Button
-        android:id="@+id/btnSendToFragment"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Send Data to Fragment"
-        android:onClick="sendDataToFragment"/>
-
     <LinearLayout
         android:id="@+id/containerB"
         android:layout_width="match_parent"

@@ -3,46 +3,57 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FF0"
     android:padding="10dp">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical">
-
+        android:orientation="vertical"
+        android:weightSum="1">
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
-            <EditText
-                android:id="@+id/etFirstNumber"
-                android:inputType="number"
-                android:text="0"
-                android:textColor="@android:color/black"
-                android:layout_width="0dp"
+            <TextView
+                android:id="@+id/txtColour"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:background="@android:color/white"
-                />
-            <EditText
-                android:id="@+id/etSecondNumber"
-                android:inputType="number"
-                android:text="0"
-                android:textColor="@android:color/black"
-                android:layout_width="0dp"
+                android:textSize="30sp"
+                android:text="Edit me!"
+                android:layout_weight="1"/>
+
+            <ToggleButton
+                android:id="@+id/toggleColour"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:layout_marginLeft="10dp"
-                android:background="@android:color/white"
-                />
+                android:layout_weight="4"
+                android:textColor="@android:color/black"/>
         </LinearLayout>
 
-        <Button
-            android:id="@+id/btnSendToActivity"
+        <SeekBar
+            android:id="@+id/barRed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Send data to Activity"/>
+            android:padding="10dp"
+            android:max="255"
+            android:thumbTint="@color/red"
+            android:progressTint="@color/red"/>
+        <SeekBar
+            android:id="@+id/barGreen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:max="255"
+            android:thumbTint="@color/green"
+            android:progressTint="@color/green"/>
+        <SeekBar
+            android:id="@+id/barBlue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:max="255"
+            android:thumbTint="@color/blue"
+            android:progressTint="@color/blue"/>
     </LinearLayout>
 
 </LinearLayout>
