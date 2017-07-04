@@ -1,14 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
     }
 ]

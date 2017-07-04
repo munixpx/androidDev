@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

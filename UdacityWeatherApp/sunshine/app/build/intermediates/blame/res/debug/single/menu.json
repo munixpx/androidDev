@@ -1,18 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detailfragment.xml",
-        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\detailfragment.xml"
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detailfragment.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\detailfragment.xml"
     },
     {
-        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forecastfragment.xml",
-        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\forecastfragment.xml"
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
-        "source": "C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\detail.xml"
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/res/merged/debug/menu/forecastfragment.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/src/main/res/menu/forecastfragment.xml"
+    },
+    {
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/res/merged/debug/menu/detailfragment.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/src/main/res/menu/detailfragment.xml"
+    },
+    {
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forecastfragment.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\forecastfragment.xml"
+    },
+    {
+        "merged": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
+        "source": "/run/media/munix/Data/androidDev/UdacityWeatherApp/sunshine/C:\\Users\\munix\\Documents\\Android\\androidDev\\UdacityWeatherApp\\sunshine\\app\\src\\main\\res\\menu\\detail.xml"
     }
 ]
